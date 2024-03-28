@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.empire {
+  background-color: #ff0000;
+}
+
+.rebel {
+  background-color: #0000ff;
+}
+
+#vader {
+  font-size: 3rem;
+}
+
+#luke {
+  font-style: italic;
+}
+
+.troop {
+  border: 2px dashed #000000;
+  letter-spacing: 0.2rem;
+}
+
+.support {
+  text-align: center;
+}
+
+.spaceship {
+  text-transform: uppercase;
+}
